@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#EC2020</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="Primary_light">#CFF4F5</color>
+    <color name="Primary1">#99E8E3</color>
+    <color name="Primary_bg">#8be3d9</color>
+    <color name="Primary2">#0DF3D9</color>
+    <color name="Primary_dark">#164D61</color>
+    <color name="Primary_text">#C3164D61</color>
+
+    <color name="profilecard_bg">#3bcbc4</color>
+    <color name="profile_body_bg">#e1e6ed</color>
+    <color name="profile_card_body_bg">#edeff5</color>
+
+    <color name="text_light">#7E2A2D2E</color>
+    <color name="text_dark">#ED2A2D2E</color>
+
+
+    <color name="background_grey">#EDEFF5</color>
+    <color name="background_grey1">#E1E6ED</color>
+    <color name="background1">#B0EDEFF5</color>
+    <color name="background2">#D8DCE5</color>
+    <color name="background3">#C1C7D5</color>
+    <color name="background4">#ACB0BB</color>
+    <color name="background5">#818495</color>
+
+    <color name="accent1">#C9B7E9</color>
+    <color name="accent2">#8226DF</color>
+    <color name="accent3">#590CA7</color>
+
+
+    <color name="Status">#C5F2C7</color>
+    <color name="green">#0E6C12</color>
+    <color name="yello">#FB8C00</color>
+
+
+</resources>
